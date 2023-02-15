@@ -27,10 +27,10 @@ I design and develop software using several languages and frameworks/libraries
 >>> 
 >>> <img width="50" height="50" src="https://user-images.githubusercontent.com/37067073/219161566-7a903e58-cc4d-4abc-9669-319caee776b7.png" /> JAVA
 >>> 
->>> <img width="50" height="50 src="https://user-images.githubusercontent.com/37067073/219212747-9046e97a-9bdc-405e-9a9d-8de686b60faf.png" /> NODEJS
+>>> <img width="50" height="50" src="https://user-images.githubusercontent.com/37067073/219212747-9046e97a-9bdc-405e-9a9d-8de686b60faf.png" /> NODEJS
 >>> 
 >>> <img width="50" height="50 src="https://user-images.githubusercontent.com/37067073/219215621-d89ecc08-6630-4e04-8e69-0985c110ca19.png" />PHP
->>
+>>> 
 >> ## WEB FRAME WORKS & LIBRARIES
 >> 
 >>> <img width="50" height="50 src="https://user-images.githubusercontent.com/37067073/219215965-89cca4ac-c272-458b-93db-8d5945b771ab.png" />Django
