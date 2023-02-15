@@ -14,6 +14,7 @@
 ![django](https://user-images.githubusercontent.com/37067073/219215965-89cca4ac-c272-458b-93db-8d5945b771ab.png)
 ![docker](https://user-images.githubusercontent.com/37067073/219216543-1255f3f4-ba7a-4bd0-a8df-1a6a962922c0.png)
 ![mongodb](https://user-images.githubusercontent.com/37067073/219216546-0e9420a4-3fc6-4708-969e-6fe82a55e042.png)
+![android](https://user-images.githubusercontent.com/37067073/219216815-8ea7e946-74d3-40fe-b7c1-1ad8f97a3ba6.png)
            
 I am a software develper currently practicing **full stack development** on the web plus **mobile development** while taking on lessons in **AI and data science**.
 I design and develop software using several languages and frameworks/libraries
