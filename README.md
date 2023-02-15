@@ -31,7 +31,7 @@ I design and develop software using several languages and frameworks/libraries
 >>> FLASK
 >>
 >> ## FRONT END FRAME WORKS && LIBRARIES
->>> <table border="0"><tr border="0"><td border="0" valign="center"><img width="40" height="40" src="https://user-images.githubusercontent.com/37067073/219161527-c73e804e-5d61-441a-866e-07bb58789b15.png" /></td><td valign="center">REACTJS</td></tr></table>
+>>> <img width="40" height="40" src="https://user-images.githubusercontent.com/37067073/219161527-c73e804e-5d61-441a-866e-07bb58789b15.png" />REACTJS
 >>> 
 >>> ANGULAR
 >>
@@ -39,8 +39,8 @@ I design and develop software using several languages and frameworks/libraries
 >> 
 >>> ANDROID with *java or Kotlin
 >>> 
->>> Hybrid with *Flutter or React Native
-
+>>> <img width="50" height="50" src="https://user-images.githubusercontent.com/37067073/219161574-028fecde-ef07-4dbc-aafa-64cd0debb0eb.jpeg" /> Flutter
+>>> <img width="40" height="40" src="https://user-images.githubusercontent.com/37067073/219161527-c73e804e-5d61-441a-866e-07bb58789b15.png" /> React native
 > # CURRENT AND PREVIOUS WORK
 > 
 >> - 🔭 I’m currently working on ...
