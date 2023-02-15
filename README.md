@@ -44,7 +44,7 @@ I design and develop software using several languages and frameworks/libraries
 >>
 >> ## MOBILE DEVELOPMENT
 >> 
->>> <img width="50" height="50 src="https://user-images.githubusercontent.com/37067073/219216815-8ea7e946-74d3-40fe-b7c1-1ad8f97a3ba6.png"/> ANDROID with Java or Kotlin
+>>> <img width="50" height="50" src="https://user-images.githubusercontent.com/37067073/219216815-8ea7e946-74d3-40fe-b7c1-1ad8f97a3ba6.png"/> ANDROID with Java or Kotlin
 >>> 
 >>> <img width="50" height="50" src="https://user-images.githubusercontent.com/37067073/219161574-028fecde-ef07-4dbc-aafa-64cd0debb0eb.jpeg" /> Flutter
 >>>
