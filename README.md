@@ -16,7 +16,7 @@ I design and develop software using several languages and frameworks/libraries
 >> 
 >>> <img height="50" width="50" src="https://user-images.githubusercontent.com/37067073/219161558-130962cc-acaf-4798-bedb-bd0cc4dc9b65.jpeg" /> Python
 >>> 
->>> ![java](https://user-images.githubusercontent.com/37067073/219161566-7a903e58-cc4d-4abc-9669-319caee776b7.png) JAVA
+>>> <img width="50" height="50" src="https://user-images.githubusercontent.com/37067073/219161566-7a903e58-cc4d-4abc-9669-319caee776b7.png" /> JAVA
 >>> 
 >>> NODEJS
 >>> 
