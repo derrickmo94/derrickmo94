@@ -1,3 +1,5 @@
+
+
 # DERRICK MO
 
 I am a software develper currently practicing **full stack development** on the web plus **mobile development** while taking on lessons in **AI and data science**.
@@ -24,7 +26,7 @@ I design and develop software using several languages and frameworks/libraries
 >>> FLASK
 >>
 >> ## FRONT END FRAME WORKS && LIBRARIES
->>> REACTJS
+>>> ![react](https://user-images.githubusercontent.com/37067073/219161527-c73e804e-5d61-441a-866e-07bb58789b15.png) REACTJS
 >>> 
 >>> ANGULAR
 >>
