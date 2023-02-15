@@ -2,7 +2,7 @@
 # DERRICK MO
 
 <img width="100%" height="150px" src="https://user-images.githubusercontent.com/37067073/219195487-ad6b615c-a760-4940-bb22-b16e5b786e4a.jpg" />
-<p align="center>
+
 ![php](https://user-images.githubusercontent.com/37067073/219161549-06f81e3d-6d15-40c4-b2f8-85f027e204e2.png)
 ![python](https://user-images.githubusercontent.com/37067073/219161558-130962cc-acaf-4798-bedb-bd0cc4dc9b65.jpeg)
 ![java](https://user-images.githubusercontent.com/37067073/219161566-7a903e58-cc4d-4abc-9669-319caee776b7.png)
@@ -11,7 +11,7 @@
 ![nextjs](https://user-images.githubusercontent.com/37067073/219212730-18b22dfc-2b72-4b59-973e-1b0d9ade3d46.png)
 ![angular](https://user-images.githubusercontent.com/37067073/219212741-19b8b7d3-2e91-4369-a427-603ce4f24adc.png)
 ![nodejs](https://user-images.githubusercontent.com/37067073/219212747-9046e97a-9bdc-405e-9a9d-8de686b60faf.png)
-            </p>
+           
 I am a software develper currently practicing **full stack development** on the web plus **mobile development** while taking on lessons in **AI and data science**.
 I design and develop software using several languages and frameworks/libraries
 
