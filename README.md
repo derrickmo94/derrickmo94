@@ -8,23 +8,30 @@ I design and develop software using several languages and frameworks/libraries
 >> ## SERVER SIDE
 >> 
 >>> Python
+>>> 
 >>> JAVA
+>>> 
 >>> NODEJS
+>>> 
 >>> PHP
 >>
 >> ## WEB FRAME WORKS & LIBRARIES
 >> 
 >>> Django
+>>> 
 >>> LARAVEL
+>>> 
 >>> FLASK
 >>
 >> ## FRONT END FRAME WORKS && LIBRARIES
 >>> REACTJS
+>>> 
 >>> ANGULAR
 >>
->> # MOBILE DEVELOPMENT
+>> ## MOBILE DEVELOPMENT
 >> 
 >>> ANDROID with *java or Kotlin
+>>> 
 >>> Hybrid with *Flutter or React Native
 
 > # CURRENT AND PREVIOUS WORK
