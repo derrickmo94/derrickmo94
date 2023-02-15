@@ -29,7 +29,7 @@ I design and develop software using several languages and frameworks/libraries
 >>> 
 >>> <img width="50" height="50 src="https://user-images.githubusercontent.com/37067073/219212747-9046e97a-9bdc-405e-9a9d-8de686b60faf.png" /> NODEJS
 >>> 
->>> <img width="50" height="50 src="https://user-images.githubusercontent.com/37067073/219215621-d89ecc08-6630-4e04-8e69-0985c110ca19.png"/>PHP
+>>> <img width="50" height="50 src="https://user-images.githubusercontent.com/37067073/219215621-d89ecc08-6630-4e04-8e69-0985c110ca19.png" />PHP
 >>
 >> ## WEB FRAME WORKS & LIBRARIES
 >> 
