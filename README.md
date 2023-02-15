@@ -1,10 +1,9 @@
 
-
 # DERRICK MO
 
 <img width="100%" height="150px" src="https://user-images.githubusercontent.com/37067073/219195487-ad6b615c-a760-4940-bb22-b16e5b786e4a.jpg" />
 
-![php](https://user-images.githubusercontent.com/37067073/219161549-06f81e3d-6d15-40c4-b2f8-85f027e204e2.png)
+![php](https://user-images.githubusercontent.com/37067073/219215621-d89ecc08-6630-4e04-8e69-0985c110ca19.png)
 ![python](https://user-images.githubusercontent.com/37067073/219161558-130962cc-acaf-4798-bedb-bd0cc4dc9b65.jpeg)
 ![java](https://user-images.githubusercontent.com/37067073/219161566-7a903e58-cc4d-4abc-9669-319caee776b7.png)
 ![flutter](https://user-images.githubusercontent.com/37067073/219215238-3da5701d-c7b9-4a14-9c1d-1cf74c6735e0.png)
