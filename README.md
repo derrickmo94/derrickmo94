@@ -1,7 +1,7 @@
 
 # DERRICK MO
 
-![computer](https://user-images.githubusercontent.com/37067073/219195487-ad6b615c-a760-4940-bb22-b16e5b786e4a.jpg)
+<img width="100%" https://user-images.githubusercontent.com/37067073/219195487-ad6b615c-a760-4940-bb22-b16e5b786e4a.jpg) />
 
 
 I am a software develper currently practicing **full stack development** on the web plus **mobile development** while taking on lessons in **AI and data science**.
