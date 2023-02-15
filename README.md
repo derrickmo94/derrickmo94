@@ -27,26 +27,24 @@ I design and develop software using several languages and frameworks/libraries
 >>> 
 >>> <img width="50" height="50" src="https://user-images.githubusercontent.com/37067073/219161566-7a903e58-cc4d-4abc-9669-319caee776b7.png" /> JAVA
 >>> 
->>> NODEJS
+>>> <img width="50" height="50 src="https://user-images.githubusercontent.com/37067073/219212747-9046e97a-9bdc-405e-9a9d-8de686b60faf.png" /> NODEJS
 >>> 
->>> PHP
+>>> <img width="50" height="50 src="https://user-images.githubusercontent.com/37067073/219215621-d89ecc08-6630-4e04-8e69-0985c110ca19.png"/>PHP
 >>
 >> ## WEB FRAME WORKS & LIBRARIES
 >> 
->>> Django
+>>> <img width="50" height="50 src="https://user-images.githubusercontent.com/37067073/219215965-89cca4ac-c272-458b-93db-8d5945b771ab.png" />Django
 >>> 
->>> LARAVEL
->>> 
->>> FLASK
+>>> <img width="50" height="50" src="https://user-images.githubusercontent.com/37067073/219219942-6bb33d21-5cf4-48e3-b82d-d39aef2ca0bf.png" />LARAVEL
 >>
 >> ## FRONT END FRAME WORKS && LIBRARIES
 >>> <img width="40" height="40" src="https://user-images.githubusercontent.com/37067073/219161527-c73e804e-5d61-441a-866e-07bb58789b15.png" />REACTJS
 >>> 
->>> ANGULAR
+>>> <img width="50" height="50 src=" "/> ANGULAR
 >>
 >> ## MOBILE DEVELOPMENT
 >> 
->>> ANDROID with *java or Kotlin
+>>> <img width="50" height="50 src="https://user-images.githubusercontent.com/37067073/219216815-8ea7e946-74d3-40fe-b7c1-1ad8f97a3ba6.png"/> ANDROID with Java or Kotlin
 >>> 
 >>> <img width="50" height="50" src="https://user-images.githubusercontent.com/37067073/219161574-028fecde-ef07-4dbc-aafa-64cd0debb0eb.jpeg" /> Flutter
 >>>
