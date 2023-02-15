@@ -26,7 +26,7 @@ I design and develop software using several languages and frameworks/libraries
 >>> FLASK
 >>
 >> ## FRONT END FRAME WORKS && LIBRARIES
->>> <div align="center"><img width="40" height="40" src="https://user-images.githubusercontent.com/37067073/219161527-c73e804e-5d61-441a-866e-07bb58789b15.png" />REACTJS</div>
+>>> <table><tr><td valign="center><img width="40" height="40" src="https://user-images.githubusercontent.com/37067073/219161527-c73e804e-5d61-441a-866e-07bb58789b15.png" />REACTJS</td></tr></table>
 >>> 
 >>> ANGULAR
 >>
