@@ -14,7 +14,7 @@ I design and develop software using several languages and frameworks/libraries
 > 
 >> ## SERVER SIDE
 >> 
->>> [![python](https://user-images.githubusercontent.com/37067073/219161549-06f81e3d-6)][https://python.org] 
+>>> [![python](https://user-images.githubusercontent.com/37067073/219161549-06f81e3d-6)](https://python.org)
 >>> 
 >>> JAVA
 >>> 
