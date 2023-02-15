@@ -1,8 +1,3 @@
-<style>
-  table,td,th {
-    border: none!important;
-  }
-  </style>
 
 # DERRICK MO
 
