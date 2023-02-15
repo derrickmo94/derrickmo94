@@ -40,7 +40,7 @@ I design and develop software using several languages and frameworks/libraries
 >> ## FRONT END FRAME WORKS && LIBRARIES
 >>> <img width="40" height="40" src="https://user-images.githubusercontent.com/37067073/219161527-c73e804e-5d61-441a-866e-07bb58789b15.png" />REACTJS
 >>> 
->>> <img width="50" height="50 src=" "/> ANGULAR
+>>> <img width="50" height="50" src="https://user-images.githubusercontent.com/37067073/219212741-19b8b7d3-2e91-4369-a427-603ce4f24adc.png"/> ANGULAR
 >>
 >> ## MOBILE DEVELOPMENT
 >> 
