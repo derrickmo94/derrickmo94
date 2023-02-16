@@ -69,8 +69,12 @@ I design and develop software using several languages and frameworks/libraries
 >
 > # HOW TO REACH ME
 >> ![website](https://user-images.githubusercontent.com/37067073/219275747-58cf603f-9a79-4467-b0df-e24496b86f65.jpg)[derrickmo portfolio website](https://www.derrickmo.com)
+>> 
 >> ![envelope (1)](https://user-images.githubusercontent.com/37067073/219276281-d5d934db-b0a2-4c60-9a41-1899ab142a01.png) derrrickmo.dev@gmail.com
->> ![twiiter (1)](https://user-images.githubusercontent.com/37067073/219276414-f5b3e248-c72a-4286-8478-a20df44aa4e3.png) [derrickmo](https://twitter.com/derrickmo)
+>> 
+>> ![twiiter (1)](https://user-images.githubusercontent.com/37067073/219276414-f5b3e248-c72a-4286-8478-a20df44aa4e3.png) [@derrickmo](https://twitter.com/derrickmo)
+>> 
+>> ![facebook (1)](https://user-images.githubusercontent.com/37067073/219277490-3a867857-e270-4164-8775-4fabdebc4505.png)[@derrickmo]
 
 
 - 👯 I’m looking to collaborate on ...
