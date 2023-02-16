@@ -63,9 +63,9 @@ I design and develop software using several languages and frameworks/libraries
 > # PERSONAL WORK
 >> [**ReproHealth:**](https://github.com/derrickmo94/ReproHealth) An android based mobile app for disseminating reproductive health information and counselling
 >> 
->> [**Campus Home**](https://bitbucket.org/group-projects-workspace/campus-home-app/src/master/) A flutter mobile app aimed at enabling students in institutions of higher learning acquire acommodation easily
+>> [**Campus Home**](https://github.com/derrickmo94/campush-home) A flutter mobile app aimed at enabling students in institutions of higher learning acquire acommodation easily
 >> 
->> [**Tour website**](https://bitbucket.org/web-based-projects/tourwebsite/src/master/) A tour and travel website
+>> [**Tour website**](https://github.com/derrickmo94/tourwebsite) A tour and travel website
 >
 > # CURRENTLY LEARNING
 >> Taking an introductory course in data science at College of computing and information science AI Labs, Makerere University
