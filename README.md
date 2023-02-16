@@ -53,6 +53,9 @@ I design and develop software using several languages and frameworks/libraries
 > 
 >> Web chating app dubbed [miingoapp](https://miingo-client.vercel.com)
 >
+> # PREVIOUS WORK
+> 
+>> E-Commerce platform [[skouganda(sokouganda)]](https://wwww.sokouganda.net)
 > # CURRENTLY LEARNING
 > 
 >> Taking an introductory course in data science at College of computing and information science AI Labs, Makerere University
