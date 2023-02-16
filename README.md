@@ -49,8 +49,9 @@ I design and develop software using several languages and frameworks/libraries
 >>> <img width="50" height="50" src="https://user-images.githubusercontent.com/37067073/219161574-028fecde-ef07-4dbc-aafa-64cd0debb0eb.jpeg" /> Flutter
 >>>
 >>> <img width="40" height="40" src="https://user-images.githubusercontent.com/37067073/219161527-c73e804e-5d61-441a-866e-07bb58789b15.png" /> React native
-> # CURRENT AND PREVIOUS WORK
+> # CURRENT WORK
 > 
+>> Web chating app dubbed [miingoapp](https://miingo-client.vercel.com)
 >> - 🔭 I’m currently working on ...
 >
 > #CURRENTLY LEARNING
