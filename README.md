@@ -74,9 +74,9 @@ I design and develop software using several languages and frameworks/libraries
 >> 
 >> ![twiiter (1)](https://user-images.githubusercontent.com/37067073/219276414-f5b3e248-c72a-4286-8478-a20df44aa4e3.png) [@derrickmo](https://twitter.com/derrickmo4)
 >> 
->> ![facebook (1)](https://user-images.githubusercontent.com/37067073/219277490-3a867857-e270-4164-8775-4fabdebc4505.png)[@derrickmo](https://facebook.com/derrickmo)
+>> ![facebook (1)](https://user-images.githubusercontent.com/37067073/219277490-3a867857-e270-4164-8775-4fabdebc4505.png) [@derrickmo](https://facebook.com/derrickmo)
 >> 
->> ![instagram](https://user-images.githubusercontent.com/37067073/219291542-3e7a16b0-0463-433b-8725-11f3e314f282.jpg)[@derrickmo](https://www.instagram.com/derrickmo94/)
+>> ![instagram](https://user-images.githubusercontent.com/37067073/219291542-3e7a16b0-0463-433b-8725-11f3e314f282.jpg) [@derrickmo](https://www.instagram.com/derrickmo94/)
 >>
->>![linkedin (1)](https://user-images.githubusercontent.com/37067073/219291560-e6b0d436-59bb-4e0c-a8dc-bd56a0072e09.png)[@derrickmo](https://www.linkedin.com/in/derrick-madibo-5b943a109/)
+>>![linkedin (1)](https://user-images.githubusercontent.com/37067073/219291560-e6b0d436-59bb-4e0c-a8dc-bd56a0072e09.png) [@derrickmo](https://www.linkedin.com/in/derrick-madibo-5b943a109/)
 
