@@ -57,7 +57,7 @@ I design and develop software using several languages and frameworks/libraries
 >> Check out my brief resume at [derrickmo](https://wwww.sokouganda.net)
 >
 > # CURRENT WORK
->> Web chating app dubbed [miingoapp](https://miingo-client.vercel.com)
+>> Web chating app dubbed [miingoapp](https://derrickmo94.github.io/derrickmo-porfolio/)
 >
 > # PERSONAL WORK
 >> [**ReproHealth:**](https://github.com/derrickmo94/ReproHealth) An android based mobile app for disseminating reproductive health information and counselling
