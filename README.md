@@ -18,7 +18,9 @@
            
 I am a software develper currently practicing **full stack development** on the web plus **mobile development** while taking on lessons in **AI and data science**.
 I design and develop software using several languages and frameworks/libraries
-<p> While at it, you can take a look at my visualized portfolio here <a href="https://">Derrick Mo website</a></p>
+<p> While at it, you can take a look at my visualized portfolio here <a href="https://">Derrick Mo website</a> 
+           and also check out  my other work at <a href="">derrickmo bitbucket</a></p>
+
 
 > # LANGUAGES!
 > 
