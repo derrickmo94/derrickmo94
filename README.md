@@ -1,7 +1,7 @@
 
 # DERRICK MO
 
-<img width="100%" height="150px" src="https://user-images.githubusercontent.com/37067073/224275219-f36807e5-8e17-4304-8565-46dc78cff719.png" />
+<img width="100%" src="https://user-images.githubusercontent.com/37067073/224275219-f36807e5-8e17-4304-8565-46dc78cff719.png" />
 
 ![php](https://user-images.githubusercontent.com/37067073/219215621-d89ecc08-6630-4e04-8e69-0985c110ca19.png)
 ![python](https://user-images.githubusercontent.com/37067073/219161558-130962cc-acaf-4798-bedb-bd0cc4dc9b65.jpeg)
