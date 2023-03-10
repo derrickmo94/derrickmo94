@@ -54,7 +54,7 @@ I design and develop software using several languages and frameworks/libraries
 >
 > # WORK EXPERIENCE 
 > 
->> Check out my brief resume at [derrickmo](https://wwww.sokouganda.net)
+>> Check out my brief resume at [derrickmo](https://derrickmo94.github.io/derrickmo-porfolio/)
 >
 > # CURRENT WORK
 >> Web chating app dubbed [miingoapp](https://derrickmo94.github.io/derrickmo-porfolio/)
